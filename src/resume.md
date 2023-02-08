@@ -463,7 +463,7 @@
 
 - [**publicNote**](https://github.com/wjshan/publicNote)：开源笔记,在线访问地址（http://public-note.danwj.cn/）
 - [**rust-py-tools**](https://github.com/wjshan/rust-py-tools)：由rust编译而成的Python模块,处理效率相对Python快70倍左右.[pypi](https://pypi.org/project/rust-py-tools-d/)
-- [**ResumeSelf**](https://github.com/wjshan/ResumeSelf): 个人简历项目,当前简历就是由此构成(http://danwj.cn/resume)
+- [**ResumeSelf**](https://github.com/wjshan/ResumeSelf): 个人简历项目,当前简历就是由此构成(https://danwj.cn/resume)
 - [**anonymous-chat-web**](https://github.com/wjshan/anonymous-chat-web): 一个匿名聊天室的前端部分
 - [**chat-server**](https://github.com/wjshan/chat-server): 匿名聊天室后端部分
 - [**fastapi-project-template**](https://github.com/wjshan/fastapi-project-template): 一个基于FastAPI的基础项目框架模板
