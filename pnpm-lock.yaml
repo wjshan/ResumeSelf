@@ -1,6 +1,7 @@
 lockfileVersion: 5.4
 
 specifiers:
+  '@iktakahiro/markdown-it-katex': ^4.0.1
   '@rollup/pluginutils': ^5.0.2
   fs-extra: ^11.1.0
   html-minifier-terser: ^7.1.0
@@ -21,6 +22,7 @@ dependencies:
   reset.css: 2.0.2
 
 devDependencies:
+  '@iktakahiro/markdown-it-katex': 4.0.1
   '@rollup/pluginutils': 5.0.2
   fs-extra: 11.1.0
   html-minifier-terser: 7.1.0
@@ -460,6 +462,12 @@ packages:
     requiresBuild: true
     dev: true
     optional: true
+
+  /@iktakahiro/markdown-it-katex/4.0.1:
+    resolution: {integrity: sha512-kGFooO7fIOgY34PSG8ZNVsUlKhhNoqhzW2kq94TNGa8COzh73PO4KsEoPOsQVG1mEAe8tg7GqG0FoVao0aMHaw==}
+    dependencies:
+      katex: 0.12.0
+    dev: true
 
   /@jridgewell/gen-mapping/0.1.1:
     resolution: {integrity: sha512-sQXCasFk+U8lWYEe66WxRDOE9PjVz4vSM51fTu3Hw+ClTpUSQb718772vH3pyS5pShp6lvQM7SxgIDXXXmOX7w==}
@@ -1499,6 +1507,13 @@ packages:
       universalify: 2.0.0
     optionalDependencies:
       graceful-fs: 4.2.10
+    dev: true
+
+  /katex/0.12.0:
+    resolution: {integrity: sha512-y+8btoc/CK70XqcHqjxiGWBOeIL8upbS0peTPXTvgrh21n1RiWWcIpSWM+4uXq+IAgNh9YYQWdc7LVDPDAEEAg==}
+    hasBin: true
+    dependencies:
+      commander: 2.20.3
     dev: true
 
   /kleur/3.0.3:
