@@ -4,7 +4,7 @@ import markdownItKatex from '@iktakahiro/markdown-it-katex'
 import markdownToResume from './core/vite-plugin';
 
 export default defineConfig({
-  base: '/resume',
+  base: './',
   plugins: [
     markdownToResume({
       markdown(md) {
