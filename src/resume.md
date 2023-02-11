@@ -500,7 +500,7 @@
 感谢您花时间阅读我的简历，期待能有机会和您共事。
 
 ::: {.main-footer}
-[下载 PDF 版](单炜佳个人简历.pdf){download="个人简历.pdf"}
+[下载 PDF 版](个人简历.pdf){download="个人简历.pdf"}
 
 [打印简历](#){#print-button}
 :::
